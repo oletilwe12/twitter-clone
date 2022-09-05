@@ -187,8 +187,7 @@
 .fa-inverse {
   color: #fff; }
 
-/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
-readers do not read off random characters that represent icons */
+
 .fa-500px:before {
   content: "\f26e"; }
 
@@ -4571,7 +4570,7 @@ readers do not read off random characters that represent icons */
 
 .far {
   font-family: 'Font Awesome 5 Free';
-  font-weight: 400; }
+  font-weight: 100; }
 @font-face {
   font-family: 'Font Awesome 5 Free';
   font-style: normal;
