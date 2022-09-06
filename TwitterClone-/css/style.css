@@ -124,10 +124,11 @@ ul {
   margin-top: 1.5rem;
   align-self: center;
   padding: 0 0.6rem;
+  padding: 50px;
 }
 .profile-box:hover {
-  background: rgba(29, 161, 242, 0.1);
-  border-radius: 25px;
+  background: rgba(29, 161, 242, 0.08);
+  color: var(--color-blue);
   cursor: pointer;
 }
 
