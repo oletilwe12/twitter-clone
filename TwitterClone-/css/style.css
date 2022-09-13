@@ -63,7 +63,7 @@ ul {
   align-items: center;
 }
 
-/* Left Navigation */
+/* Left Sidebar */
 .logo i{
   color: #1da1f2;
   font-size: 2rem;
@@ -156,8 +156,9 @@ ul {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 1.1rem;
 }
+/* End of Left Sidebar */
 
-/* Main Container */
+/* Center */
 .home {
   display: flex;
   justify-content: space-between;
@@ -262,7 +263,7 @@ ul {
   outline: none;
 }
 
-/* User Content */
+/* User Content/Tweets */
 .tweets img {
   display: block;
   width: 100%;
@@ -387,6 +388,7 @@ ul {
   font-size: 0.9rem;
   background: rgb(230, 236, 240);
 }
+/* End of Right Navbar */
 
 /* Trending Nav Items */
 .nav-list {
@@ -619,4 +621,4 @@ ul {
 .pagnation a:hover {
   background: #198ed6;
 }
-
+/* End of Right Sidebar*/
